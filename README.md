@@ -68,4 +68,4 @@ Finally, let’s navigate to the **Location Page**, where geography meets analyt
 In closing, the **Uber Analysis Dashboard** is more than just a data visualization tool; it’s a strategic asset that equips you with the insights needed to drive decisions and enhance performance. 
  drive decisions and enhance performance. 
 
-Explore the Uber Analysis Dashboard yourself https://app.powerbi.com/viewr=eyJrIjoiYmE3OTJhNDctMTk0MS00MjZkLWJkM2QtMWNmNTQ3ZDg3NjU1IiwidCI6Ijc5NjJkODZkLTFmMWItNDVjMi1hYjU3LWM2NzgwOTJmMjVmYyJ9 . This interactive tool empowers you to dive deeper into the metrics that matter most and uncover insights tailored to your specific needs.
+Explore the Uber Analysis Dashboard yourself (https://app.powerbi.com/view?r=eyJrIjoiYmE3OTJhNDctMTk0MS00MjZkLWJkM2QtMWNmNTQ3ZDg3NjU1IiwidCI6Ijc5NjJkODZkLTFmMWItNDVjMi1hYjU3LWM2NzgwOTJmMjVmYyJ9) . This interactive tool empowers you to dive deeper into the metrics that matter most and uncover insights tailored to your specific needs.
