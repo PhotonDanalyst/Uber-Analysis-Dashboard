@@ -1,3 +1,5 @@
+"C:\Users\AY\Documents\Completed Projects\Uber Protege\Screenshots\uber.png"
+
 Uber-Analysis-Dashboard
 
 A transformative tool designed in Power BI to turn complex data into clear, actionable insights. Whether you’re an executive making strategic decisions or a data analyst seeking to understand trends, this dashboard is your gateway to Uber's operational excellence.
