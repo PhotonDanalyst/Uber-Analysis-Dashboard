@@ -1,4 +1,4 @@
-"C:\Users\AY\Documents\Completed Projects\Uber Protege\Screenshots\uber.png"
+![Description of the image](https://raw.githubusercontent.com/PhotonDanalyst/Uber-Analysis-Dashboard/main/uber.png)
 
 Uber-Analysis-Dashboard
 
