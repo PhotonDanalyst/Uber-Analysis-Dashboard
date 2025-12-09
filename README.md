@@ -1,4 +1,4 @@
-!(https://raw.githubusercontent.com/PhotonDanalyst/Uber-Analysis-Dashboard/main/uber.png)
+![Uber Logo](https://raw.githubusercontent.com/PhotonDanalyst/Uber-Analysis-Dashboard/main/uber.png)
 
 Uber-Analysis-Dashboard
 
